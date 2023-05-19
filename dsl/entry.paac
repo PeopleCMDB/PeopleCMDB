@@ -1,0 +1,24 @@
+Define:
+    Сотрудники
+        roles + safety_level + priority + motivation
+
+    Роли
+        safety_level + motivation
+    
+    Бизнес-цели
+        Недопустимые события
+            Сценарии НС
+                Опасные действия
+                Безопасные действия
+                    motivation
+                        believes
+                    Возможности
+                        (knowledge + skills) х means
+
+    Курсы + Имитированные атаки
+        believes + knowledge + skills
+
+Integrate:
+    IDM
+    IRP
+    DevSecOps
